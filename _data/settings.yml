@@ -41,10 +41,10 @@ hero:
   hero-title: Hi! I’m <br> Raushan <br> Robotics Researcher 
 
 social:
-- {icon: "ti-facebook", link: "teresed"}
-- {icon: "ti-instagram", link: "raushanawesome"}
-- {icon: "ti-dribbble", link: "#"}
-- {icon: "ti-twitter", link: "#"}
+- {icon: "ti-facebook", link: "https://www.facebook.com/terested/"}
+- {icon: "ti-instagram", link: "https://www.instagram.com/raushanawesome/"}
+- {icon: "ti-linkedin", link: "https://www.linkedin.com/in/raushankumar586/"}
+- {icon: "ti-twitter", link: "https://twitter.com/tweetraushan"}
 
 
 #-------------------------------
