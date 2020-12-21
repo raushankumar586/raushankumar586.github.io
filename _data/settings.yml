@@ -94,10 +94,11 @@ work-process:
 
 skills-title: Skills
 skills:
-- {name: Web Design, color: '#fdb157', value: '90%'}
-- {name: Logo Design, color: '#9473e6', value: '60%'}
-- {name: After Effects, color: '#bdecf6', value: '80%'}
-- {name: Web App, color: '#ffbcaa', value: '70%'}
+- {name: ROS 1, color: '#fdb157', value: '80%'}
+- {name: Python, color: '#9473e6', value: '60%'}
+- {name: Linux, color: '#bdecf6', value: '80%'}
+- {name: Arduino, color: '#ffbcaa', value: '90%'}
+- {name: PCB Design, color: '#ffbcaa', value: '60%'}
 
 
 #-------------------------------
@@ -105,9 +106,12 @@ skills:
 
 experience-title: Experience
 experience:
-- {name: Junior UX Designer, icon: 'icon-1.png', date: 'Jan 2007 - Feb 2009', organization: 'WEBEX'}
-- {name: UX & UI Designer, icon: 'icon-2.png', date: 'Mar 2009 - Aug 2014', organization: 'AUGMEDIX'}
-- {name: Senior UI Designer, icon: 'icon-3.png', date: 'Sep 2014 - Present', organization: 'THEMEFISHER'}
+- {name: Embedded Developer, icon: 'icon-1.png', date: 'May 2017 - Oct 2017', organization: 'Intellicar Telemetics'}
+- {name: Hardware Engineer, icon: 'icon-2.png', date: 'Oct 2017 - Mar 2017', organization: 'Invento Robotics'}
+- {name: R&D Engineer, icon: 'icon-3.png', date: 'Mar 2017 - Mar 2018', organization: 'Invento Robotics'}
+- {name: Navigation Engineer , icon: 'icon-3.png', date: 'Mar 2018 - Sep 2019', organization: 'Invento Robotics'}
+- {name: Sr. Navigation Engineer, icon: 'icon-3.png', date: 'Sep 2019 - Sep 2020', organization: 'Invento Robotics'}
+- {name: Development Manager , icon: 'icon-3.png', date: 'Sep 2020 - Present', organization: 'Invento Robotics'}
 
 
 #-------------------------------
