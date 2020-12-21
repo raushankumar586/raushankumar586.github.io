@@ -1,14 +1,14 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: Raushan World
 logo: 
 author: themefisher
 description: this is meta description
 email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
-copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+phone: +91 8340783568
+address: 71/6 3rd main road, Phase 3, HSR Layout, Bangalore
+# copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
 - {name: About, link: '/about'}
@@ -38,11 +38,11 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Hi! I’m <br> Raushan <br> Robotics Researcher 
 
 social:
-- {icon: "ti-facebook", link: "#"}
-- {icon: "ti-instagram", link: "#"}
+- {icon: "ti-facebook", link: "teresed"}
+- {icon: "ti-instagram", link: "raushanawesome"}
 - {icon: "ti-dribbble", link: "#"}
 - {icon: "ti-twitter", link: "#"}
 
